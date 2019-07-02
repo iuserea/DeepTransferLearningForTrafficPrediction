@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -ex
+
+# This is the master script for the capsule. When you click "Reproducible Run", the code in this file will execute.
+python -u "demo_three_cluster.py"
+
+# The previous version of this file was commented-out and follows below:
+# 
+# python -u "demo_transfer_learning.py"
+# 
+# # The previous version of this file was commented-out and follows below:
+# # 
+# # python -u "demo_three_cluster.py"
+# # 
+# 

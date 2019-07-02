@@ -1,0 +1,31 @@
+metadata_version: 1
+name: Deep Transfer Learning for Intelligent Cellular Traffic Prediction Based on
+  Cross-Domain Big Data
+description: Source code for the paper entitled "Deep Transfer Learning for Intelligent
+  Cellular Traffic Prediction Based on Cross-Domain Big Data". We proposed a deep
+  learning framework for wireless traffic prediction called STCNet.
+tags:
+- traffic-prediction
+- deep-learning
+- big-data
+- intelligent-communications
+- time-series-prediction
+authors:
+- name: Chuanting Zhang
+  affiliations:
+  - name: Shandong University
+- name: Haixia Zhang
+  affiliations:
+  - name: Shandong University
+- name: Jingping Qiao
+  affiliations:
+  - name: Shandong Normal University
+- name: Dongfeng Yuan
+  affiliations:
+  - name: Shandong University
+- name: Minggao Zhang
+  affiliations:
+  - name: Shandong University
+corresponding_contributor:
+  name: Chuanting Zhang
+  email: chuanting.zhang@gmail.com
